@@ -1,0 +1,16 @@
+h2 {
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: #0c0c0c; }
+
+header {
+  width: 150px;
+  text-align: center; }
+
+footer {
+  background-color: #7ec50c;
+  text-align: right;
+  color: black; }
+
+body {
+  background-color: darkorchid; }
